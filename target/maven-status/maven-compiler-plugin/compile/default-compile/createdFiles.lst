@@ -1,0 +1,5 @@
+com\cpi\share\claim\lossratio\LossRatioForClaimPartInfo.class
+com\cpi\share\uw\insuredvessel\IvPeriodInfo.class
+com\cpi\share\uw\insuredvessel\InsuredVesselInfo.class
+com\cpi\share\uw\reinsurance\IvReinsuranceInfo.class
+com\cpi\share\uw\insuredvessel\IvCertificateVersionInfo.class
